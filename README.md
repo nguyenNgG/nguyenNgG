@@ -8,4 +8,4 @@
 -->
 
 - 🌱 I’m currently learning: .NET
-- 📫 How to reach me: [ngianguyen81@gmail.com](ngianguyen81@gmail.com)
+- 📫 How to reach me: [gianguyen12a5@gmail.com](gianguyen12a5@gmail.com)
